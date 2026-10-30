@@ -81,6 +81,7 @@ Host: example.com
 
 ## httprint
 ### output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/847fd97c-93d8-4ae2-89c6-cbf4862d9589" />
 
 
 
@@ -89,11 +90,13 @@ Host: example.com
 TCP Traceroute:
 sudo traceroute -T www.google.com
 ## output
+<img width="911" height="322" alt="image" src="https://github.com/user-attachments/assets/caf841f5-486d-4780-8155-f268516a1356" />
 
 
 ## UDP Traceroute:
 sudo traceroute -U www.google.com
 ## output
+<img width="1063" height="236" alt="image" src="https://github.com/user-attachments/assets/39e9650d-0532-4e1b-a4b0-adf550c306ec" />
 
 
 
@@ -101,6 +104,7 @@ sudo traceroute -U www.google.com
 sudo traceroute  www.google.com
 ## output
 
+<img width="1506" height="312" alt="image" src="https://github.com/user-attachments/assets/f7995d88-1644-406f-bcb7-bb4502f7bc45" />
 
 
 
