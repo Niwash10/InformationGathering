@@ -29,39 +29,54 @@ http://www.whois.com/whois website to get detailed information about a domain na
 
 ## OUTPUT:
 
+<img width="1880" height="907" alt="image" src="https://github.com/user-attachments/assets/2b02e199-eaa9-45b1-9242-b89290b73d8e" />
+
 
 ## Finding IP address:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
-##output
 
+## output
+
+<img width="1917" height="413" alt="image" src="https://github.com/user-attachments/assets/0fd62d0d-5591-46c6-b0f0-ac9bf321ac2a" />
 
 
 ## Finding Hosting Company
 get further detail by using ip2location.com website.
-##output
+## output
+
+<img width="1916" height="745" alt="image" src="https://github.com/user-attachments/assets/345897e9-d4f7-4600-b4e0-6ab58338c7f8" />
 
 
 
 ## History of the website:
+
 ## output
 https://web.archive.org/
+
+<img width="1912" height="922" alt="image" src="https://github.com/user-attachments/assets/ff35e0bf-47f8-4c48-b3a0-0b7460575e0f" />
 
 
 # Webserver Fingerprinting:
 
 ## Netcat:
-sudo nc example.com 80
+```
 GET / HTTP/1.1
 Host: example.com
+```
+<img width="1908" height="670" alt="image" src="https://github.com/user-attachments/assets/479f76bd-0cd7-4417-a275-a53bdea9c6fa" />
+
 
 
 
 ## nmap:
-###output
+
+## output
+<img width="1095" height="161" alt="image" src="https://github.com/user-attachments/assets/3e5939b5-2f73-448b-b837-a2380edf2793" />
 
 
 ## Whatweb
 ### output
+<img width="1905" height="170" alt="image" src="https://github.com/user-attachments/assets/7ec52b4f-4dd8-47f1-8127-b70c6a9f8ea4" />
 
 
 ## httprint
